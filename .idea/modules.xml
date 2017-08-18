@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThriftDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ThriftDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThriftDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ThriftDemo_main.iml" group="ThriftDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThriftDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ThriftDemo_test.iml" group="ThriftDemo" />
+    </modules>
+  </component>
+</project>
