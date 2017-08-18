@@ -188,7 +188,7 @@ public class SubscribePublisheUtil {
         @Override
         public void publish(String id, Map<String, String> params, AsyncMethodCallback<Void> resultHandler) throws TException {
 
-            // 不应该进来
+            // 不应该被调用
             assert false;
         }
     }
